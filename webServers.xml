@@ -2,8 +2,13 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="37114370-09d9-4d29-abc5-f1077a7a69eb" name="root@47.106.249.150:22" url="http:///">
-        <fileTransfer host="47.106.249.150" port="22" accessType="SFTP">
-          <option name="port" value="22" />
+        <fileTransfer host="10.240.160.62" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" rootFolder="/home/hduser/masheng" accessType="SFTP" keyPair="true">
+          <option name="port" value="32200" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="05c84a00-0544-4e63-85c2-888cc1db5063" name="hduser@10.240.160.62:32200" url="http:///">
+        <fileTransfer host="10.240.160.62" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="32200" />
         </fileTransfer>
       </webServer>
     </option>

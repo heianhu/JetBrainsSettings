@@ -11,6 +11,11 @@
           <option name="port" value="32200" />
         </fileTransfer>
       </webServer>
+      <webServer id="585ee0b0-f3e2-4e4f-a203-3fd2cd1c0213" name="masheng@59.111.128.9:32200" url="http:///">
+        <fileTransfer host="59.111.128.9" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="32200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

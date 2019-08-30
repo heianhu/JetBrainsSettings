@@ -6,8 +6,8 @@
           <option name="port" value="32200" />
         </fileTransfer>
       </webServer>
-      <webServer id="585ee0b0-f3e2-4e4f-a203-3fd2cd1c0213" name="masheng@leihuo-hadoop-50:32200" url="http:///">
-        <fileTransfer host="leihuo-hadoop-50" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" rootFolder="/home/masheng/" accessType="SFTP" keyPair="true">
+      <webServer id="585ee0b0-f3e2-4e4f-a203-3fd2cd1c0213" name="masheng@leihuo-hadoop-30:32200" url="http:///">
+        <fileTransfer host="leihuo-hadoop-30" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" rootFolder="/home/masheng/" accessType="SFTP" keyPair="true">
           <option name="port" value="32200" />
         </fileTransfer>
       </webServer>

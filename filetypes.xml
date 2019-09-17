@@ -30,6 +30,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="edgelist" type="PLAIN_TEXT" />
       <mapping ext="ipdb" type="PLAIN_TEXT" />
+      <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="gml" type="PLAIN_TEXT" />
       <mapping pattern="luofeng_finish" type="SQL" />
       <mapping pattern="detail_mysql" type="SQL" />

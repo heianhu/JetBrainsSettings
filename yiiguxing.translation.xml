@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Using a password on the command line interface can be insecure." />
       <item value="Index(...) must be called with a collection of some kind, False was passed" />
       <item value="type" />
       <item value="新增" />

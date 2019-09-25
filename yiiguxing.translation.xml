@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Due Table" />
+      <item value="Delete Over Due Table" />
+      <item value="due" />
       <item value="channel" />
       <item value="Set mem_limit to at least 1.21 GB." />
       <item value="normal" />
@@ -11,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>

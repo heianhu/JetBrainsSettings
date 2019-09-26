@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="routing" />
+      <item value="路由" />
+      <item value="routo" />
       <item value="Chat in your VS Live Share session, and with your team on Slack and Discord." />
       <item value="Due Table" />
       <item value="Delete Over Due Table" />
@@ -15,8 +18,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>

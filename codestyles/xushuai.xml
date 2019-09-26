@@ -1,0 +1,124 @@
+<code_scheme name="xushuai" version="173">
+  <DB2CodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </HSQLCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </SQLiteCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+  </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="QUERY_IN_ONE_STRING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="WITH_EL_COMMA" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_EL_WRAP" value="0" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_WRAP" value="0" />
+  </SybaseCodeStyleSettings>
+</code_scheme>

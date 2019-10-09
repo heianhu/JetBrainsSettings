@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Received id_res response from https://login.netease.com/openid/ using association {HMAC-SHA1}{5d9b1a2a}{Ex9/1Q==}" />
+      <item value="Performing discovery on https://login.netease.com/openid/masheng/" />
+      <item value="No pre-discovered information supplied." />
       <item value="虏" />
       <item value="schema" />
       <item value="15 columns passed, passed data had 16 columns" />
@@ -28,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

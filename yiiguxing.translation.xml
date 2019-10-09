@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="15 columns passed, passed data had 16 columns" />
+      <item value="columns" />
       <item value="show runtime wrapper" />
       <item value="handle different kinds of input" />
       <item value="detail date format" />

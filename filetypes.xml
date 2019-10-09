@@ -30,6 +30,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="edgelist" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="ipdb" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />

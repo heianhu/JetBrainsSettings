@@ -1,0 +1,40 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="itere" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="compl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="compli" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="compg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="compgi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="comps" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="compsi" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

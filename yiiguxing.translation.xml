@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="small" />
       <item value="month" />
       <item value="Error while processing statement: FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.MoveTask. Unable to move source hdfs://luoge-nameservice/user/hive/warehouse/ux_d37_ods.db/dw_d37_online_classcnt_day/ds=2019-09-24/.hive-staging_hive_2019-10-15_11-26-14_519_6632963294588179584-44116/-ext-10000 to destination hdfs://luoge-nameservice/user/hive/warehouse/ux_d37_ods.db/dw_d37_online_classcnt_day/ds=2019-09-24 (state=08S01,code=1)" />
       <item value="Got error 'repetition-operator operand invalid' from regexp" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

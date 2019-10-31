@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wedding" />
       <item value="segment" />
       <item value="gailan" />
       <item value="SOCIAL ROLES OF PLAYERS IN MMORPG GUILDS A social network analytic perspective" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

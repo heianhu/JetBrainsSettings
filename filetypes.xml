@@ -12,6 +12,7 @@
       <mapping pattern="count_roleid" type="PLAIN_TEXT" />
       <mapping pattern="wanfuloujianglilingqushijianfenbu" type="PLAIN_TEXT" />
       <mapping pattern="rootcron" type="PLAIN_TEXT" />
+      <mapping pattern="82296.sql" type="PLAIN_TEXT" />
       <mapping pattern="dyeing_use_rate" type="PLAIN_TEXT" />
       <mapping pattern="32325_pay" type="PLAIN_TEXT" />
       <mapping pattern="dyeing_preferences" type="PLAIN_TEXT" />

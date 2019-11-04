@@ -56,5 +56,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="Apache Hive - @fuxi-luoge-01" uuid="2a53b940-cfb3-4c4c-bc84-be39b4d330df">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://fuxi-luoge-01:21051</jdbc-url>
+    </data-source>
   </component>
 </application>

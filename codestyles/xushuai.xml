@@ -49,8 +49,7 @@
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="WHERE_EL_WRAP" value="0" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <MySQLCodeStyleSettings version="2">
     <option name="QUERY_IN_ONE_STRING" value="1" />
     <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
     <option name="WITH_EL_WRAP" value="2" />
@@ -59,6 +58,12 @@
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="WHERE_EL_WRAP" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="2">
     <option name="QUERY_IN_ONE_STRING" value="1" />
@@ -80,6 +85,12 @@
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="WHERE_EL_WRAP" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </PostgresCodeStyleSettings>
   <SQLiteCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
@@ -91,6 +102,12 @@
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="WHERE_EL_WRAP" value="0" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="QUERY_IN_ONE_STRING" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paradise" />
       <item value="give" />
       <item value="accord" />
       <item value="afford" />
@@ -50,12 +51,11 @@
       <item value="channel" />
       <item value="Set mem_limit to at least 1.21 GB." />
       <item value="Using a password on the command line interface can be insecure." />
-      <item value="Index(...) must be called with a collection of some kind, False was passed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

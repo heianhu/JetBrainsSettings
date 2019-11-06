@@ -1,0 +1,6 @@
+<keymap version="1" name="Default 复制" parent="$default">
+  <action id="EditorSelectWord" />
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+</keymap>

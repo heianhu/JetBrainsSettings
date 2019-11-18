@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not last day" />
+      <item value="not this last day" />
+      <item value="not this month last day" />
+      <item value="not the month last day" />
+      <item value="最后一天" />
+      <item value="not last month day" />
+      <item value="brackets" />
       <item value="comment" />
       <item value="SUM requires a numeric parameter: sum(yuanbao)" />
       <item value="paradise" />
@@ -44,18 +51,11 @@
       <item value="normal" />
       <item value="gain" />
       <item value="routing" />
-      <item value="路由" />
-      <item value="routo" />
-      <item value="Chat in your VS Live Share session, and with your team on Slack and Discord." />
-      <item value="Due Table" />
-      <item value="Delete Over Due Table" />
-      <item value="due" />
-      <item value="channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predict" />
+      <item value="预测" />
       <item value="member" />
       <item value="guild" />
       <item value="expected 1 arguments, got 0" />
@@ -49,13 +51,11 @@
       <item value="No pre-discovered information supplied." />
       <item value="虏" />
       <item value="schema" />
-      <item value="15 columns passed, passed data had 16 columns" />
-      <item value="columns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The background threadpool cannot accept new task for execution, please retry the operation" />
       <item value="predict" />
       <item value="预测" />
       <item value="member" />
@@ -50,12 +51,11 @@
       <item value="Performing discovery on https://login.netease.com/openid/masheng/" />
       <item value="No pre-discovered information supplied." />
       <item value="虏" />
-      <item value="schema" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

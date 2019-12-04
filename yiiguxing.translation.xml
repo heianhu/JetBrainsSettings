@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="故事" />
+      <item value="store" />
+      <item value="storey" />
+      <item value="uncle book storey time" />
+      <item value="叔叔" />
       <item value="The background threadpool cannot accept new task for execution, please retry the operation" />
       <item value="predict" />
       <item value="预测" />
@@ -46,16 +51,11 @@
       <item value="plantflower" />
       <item value="星爵" />
       <item value="雷神" />
-      <item value="comprehension" />
-      <item value="Received id_res response from https://login.netease.com/openid/ using association {HMAC-SHA1}{5d9b1a2a}{Ex9/1Q==}" />
-      <item value="Performing discovery on https://login.netease.com/openid/masheng/" />
-      <item value="No pre-discovered information supplied." />
-      <item value="虏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

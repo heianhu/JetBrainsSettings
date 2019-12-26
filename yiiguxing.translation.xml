@@ -1,13 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="certificates" />
+      <item value="use JitterEntropy library to get good quality random bytes based on CPU timing jitter" />
+      <item value="jent entropy init" />
+      <item value="With the check below that count_stuck must be less than 10% of the overall generated raw entropy values it is guaranteed that the APT is invoked at floor((TESTLOOPCOUNT * 0.9) / 64) == 14 times." />
+      <item value="We could add a check for system capabilities such as clock_getres or check for CONFIG_X86_TSC, but it does not make much sense as the following sanity checks verify that we have a high-resolution timer." />
+      <item value="SP800-90B requires at least 1024 initial test cycles." />
+      <item value="TESTLOOPCOUNT needs some loops to identify edge systems. 100 is definitely too little." />
+      <item value="Moreover, only old systems show potentially problematic jitter entropy that could potentially be caught here. But the RNG is intended for hardware that is available or widely used, but not old systems that are long out of favor. Thus, no statistical tests." />
+      <item value="We could perform statistical tests here, but the problem is that we only have a few loop counts to do testing. These loop counts may show some slight skew and we produce false positives." />
+      <item value="this significantly increases the cryptographic strength of the encryption keys" />
+      <item value="azerion" />
+      <item value="ratio" />
+      <item value="The background threadpool cannot accept new task for execution, please retry the operation" />
+      <item value="The required privileges" />
+      <item value="QUERY" />
+      <item value="privileges" />
+      <item value="Error while compiling statement: FAILED: SemanticException No valid privileges" />
+      <item value="together" />
+      <item value="gaussian kde" />
+      <item value="ravel" />
+      <item value="vstack" />
+      <item value="mgrid" />
+      <item value="Contourf" />
+      <item value="Peform" />
+      <item value="occupy" />
+      <item value="merits" />
+      <item value="success" />
+      <item value="percentage" />
       <item value="expected string or buffer" />
       <item value="故事" />
       <item value="store" />
       <item value="storey" />
       <item value="uncle book storey time" />
       <item value="叔叔" />
-      <item value="The background threadpool cannot accept new task for execution, please retry the operation" />
       <item value="predict" />
       <item value="预测" />
       <item value="member" />
@@ -15,7 +42,6 @@
       <item value="expected 1 arguments, got 0" />
       <item value="accessory" />
       <item value="cnt toufang" />
-      <item value="ratio" />
       <item value="stacking" />
       <item value="interval" />
       <item value="not last day" />
@@ -25,37 +51,13 @@
       <item value="最后一天" />
       <item value="not last month day" />
       <item value="brackets" />
-      <item value="comment" />
-      <item value="SUM requires a numeric parameter: sum(yuanbao)" />
-      <item value="paradise" />
-      <item value="give" />
-      <item value="accord" />
-      <item value="afford" />
-      <item value="render" />
-      <item value="给予" />
-      <item value="Serving" />
-      <item value="投放" />
-      <item value="wedding" />
-      <item value="segment" />
-      <item value="gailan" />
-      <item value="SOCIAL ROLES OF PLAYERS IN MMORPG GUILDS A social network analytic perspective" />
-      <item value="currency" />
-      <item value="美元汇率" />
-      <item value="ugly" />
-      <item value="INSERT, UPDATE command denied to user 'dmgroup'@'10.200.0.29' for table 'phase10_account_pay'" />
-      <item value="地址" />
-      <item value="粘贴" />
-      <item value="small" />
-      <item value="month" />
-      <item value="Error while processing statement: FAILED: Execution Error, return code 1 from org.apache.hadoop.hive.ql.exec.MoveTask. Unable to move source hdfs://luoge-nameservice/user/hive/warehouse/ux_d37_ods.db/dw_d37_online_classcnt_day/ds=2019-09-24/.hive-staging_hive_2019-10-15_11-26-14_519_6632963294588179584-44116/-ext-10000 to destination hdfs://luoge-nameservice/user/hive/warehouse/ux_d37_ods.db/dw_d37_online_classcnt_day/ds=2019-09-24 (state=08S01,code=1)" />
-      <item value="Got error 'repetition-operator operand invalid' from regexp" />
-      <item value="plantflower" />
-      <item value="星爵" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="99" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="GREEK" value="1" />
       </map>

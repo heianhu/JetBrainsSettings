@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallel" />
       <item value="certificates" />
       <item value="use JitterEntropy library to get good quality random bytes based on CPU timing jitter" />
       <item value="jent entropy init" />
@@ -50,12 +51,11 @@
       <item value="not the month last day" />
       <item value="最后一天" />
       <item value="not last month day" />
-      <item value="brackets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="100" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="1" />

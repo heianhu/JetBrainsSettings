@@ -8,8 +8,8 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.sh</mask>
-    <mask>*.sql</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

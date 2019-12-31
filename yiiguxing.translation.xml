@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="euler angles" />
+      <item value="on closing" />
+      <item value="draw face landmarks" />
+      <item value="draw face box" />
+      <item value="rectangle" />
       <item value="extract pytorch image from filelike" />
       <item value="capture" />
       <item value="rotate" />
@@ -46,16 +51,11 @@
       <item value="together" />
       <item value="gaussian kde" />
       <item value="ravel" />
-      <item value="vstack" />
-      <item value="mgrid" />
-      <item value="Contourf" />
-      <item value="Peform" />
-      <item value="occupy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="130" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

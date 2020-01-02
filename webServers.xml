@@ -11,6 +11,11 @@
           <option name="port" value="32200" />
         </fileTransfer>
       </webServer>
+      <webServer id="31ac3b84-5f02-4ede-a114-2a6537e08f1e" name="masheng@leihuo-hadoop-30:32200 (1)" url="http:///">
+        <fileTransfer host="leihuo-hadoop-30" port="32200" accessType="SFTP" authAgent="true">
+          <option name="port" value="32200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Say you have an array for which the ith element is the price of a given stock on day i." />
+      <item value="Top Interview Questions" />
       <item value="subscriptable" />
       <item value="'type' object is not subscriptable" />
       <item value="hint" />
@@ -49,13 +51,11 @@
       <item value="We could add a check for system capabilities such as clock_getres or check for CONFIG_X86_TSC, but it does not make much sense as the following sanity checks verify that we have a high-resolution timer." />
       <item value="SP800-90B requires at least 1024 initial test cycles." />
       <item value="TESTLOOPCOUNT needs some loops to identify edge systems. 100 is definitely too little." />
-      <item value="Moreover, only old systems show potentially problematic jitter entropy that could potentially be caught here. But the RNG is intended for hardware that is available or widely used, but not old systems that are long out of favor. Thus, no statistical tests." />
-      <item value="We could perform statistical tests here, but the problem is that we only have a few loop counts to do testing. These loop counts may show some slight skew and we produce false positives." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="144" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

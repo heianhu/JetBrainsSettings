@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscriptable" />
+      <item value="'type' object is not subscriptable" />
+      <item value="hint" />
+      <item value="It doesn't matter what values are set beyond the returned length." />
+      <item value="Your function should return length = 5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively." />
+      <item value="It doesn't matter what you leave beyond the returned length." />
+      <item value="Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively." />
+      <item value="with the first two elements of nums being 1 and 2 respectively." />
+      <item value="Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory." />
+      <item value="Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length." />
+      <item value="Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory." />
       <item value="euler angles" />
       <item value="on closing" />
       <item value="draw face landmarks" />
@@ -40,22 +51,11 @@
       <item value="TESTLOOPCOUNT needs some loops to identify edge systems. 100 is definitely too little." />
       <item value="Moreover, only old systems show potentially problematic jitter entropy that could potentially be caught here. But the RNG is intended for hardware that is available or widely used, but not old systems that are long out of favor. Thus, no statistical tests." />
       <item value="We could perform statistical tests here, but the problem is that we only have a few loop counts to do testing. These loop counts may show some slight skew and we produce false positives." />
-      <item value="this significantly increases the cryptographic strength of the encryption keys" />
-      <item value="azerion" />
-      <item value="ratio" />
-      <item value="The background threadpool cannot accept new task for execution, please retry the operation" />
-      <item value="The required privileges" />
-      <item value="QUERY" />
-      <item value="privileges" />
-      <item value="Error while compiling statement: FAILED: SemanticException No valid privileges" />
-      <item value="together" />
-      <item value="gaussian kde" />
-      <item value="ravel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="142" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

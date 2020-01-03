@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For the purpose of this problem, we define empty string as valid palindrome." />
       <item value="Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases." />
       <item value="Note: For the purpose of this problem, we define empty string as valid palindrome." />
       <item value="What if the inputs contain unicode characters? How would you adapt your solution to such case?" />
@@ -50,12 +51,11 @@
       <item value="Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct." />
       <item value="profit" />
       <item value="Say you have an array for which the ith element is the price of a given stock on day i." />
-      <item value="Top Interview Questions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="200" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

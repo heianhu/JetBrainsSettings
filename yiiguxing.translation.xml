@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?" />
+      <item value="What if nums1's size is small compared to nums2's size? Which algorithm is better?" />
+      <item value="What if the given array is already sorted? How would you optimize your algorithm?" />
+      <item value="Each element in the result should appear as many times as it shows in both arrays. The result can be in any order." />
+      <item value="intersection" />
       <item value="every element appears twice except for one. Find that single one." />
       <item value="Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?" />
       <item value="Given a non-empty array of integers, every element appears twice except for one. Find that single one." />
@@ -46,16 +51,11 @@
       <item value="tha" />
       <item value="puppet" />
       <item value="poser" />
-      <item value="interval" />
-      <item value="标记" />
-      <item value="parallel" />
-      <item value="certificates" />
-      <item value="use JitterEntropy library to get good quality random bytes based on CPU timing jitter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="154" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

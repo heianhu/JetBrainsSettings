@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return True if all characters in S are digits" />
+      <item value="Return True if there are only decimal characters in S," />
+      <item value="Return True if all characters in S are alphanumeric" />
+      <item value="digit or a +/- sign. Therefore no valid conversion could be performed." />
+      <item value="The first non-whitespace character is 'w', which is not a numerical" />
+      <item value="Conversion stops at digit '3' as the next character is not a numerical digit." />
+      <item value="Then take as many numerical digits as possible, which gets 42." />
+      <item value="The first non-whitespace character is '-', which is the minus sign." />
+      <item value="Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231, 231 − 1]. If the numerical value is out of the range of representable values, INT_MAX (231 − 1) or INT_MIN (−231) is returned." />
+      <item value="Only the space character ' ' is considered as whitespace character." />
+      <item value="If no valid conversion could be performed, a zero value is returned." />
+      <item value="If the first sequence of non-whitespace characters in str is not a valid integral number, or if no such sequence exists because either str is empty or it contains only whitespace characters, no conversion is performed." />
+      <item value="The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function." />
+      <item value="The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value." />
+      <item value="Implement atoi which converts a string to an integer." />
       <item value="For the purpose of this problem, we define empty string as valid palindrome." />
       <item value="Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases." />
       <item value="Note: For the purpose of this problem, we define empty string as valid palindrome." />
@@ -36,26 +51,11 @@
       <item value="You must do this in-place without making a copy of the array. Minimize the total number of operations." />
       <item value="Minimize the total number of operations." />
       <item value="You must do this in-place without making a copy of the array." />
-      <item value="Do not return anything, modify nums in-place instead." />
-      <item value="You may assume the integer does not contain any leading zero, except the number 0 itself." />
-      <item value="The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit." />
-      <item value="Given a non-empty array of digits representing a non-negative integer, plus one to the integer." />
-      <item value="What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?" />
-      <item value="What if nums1's size is small compared to nums2's size? Which algorithm is better?" />
-      <item value="What if the given array is already sorted? How would you optimize your algorithm?" />
-      <item value="Each element in the result should appear as many times as it shows in both arrays. The result can be in any order." />
-      <item value="intersection" />
-      <item value="every element appears twice except for one. Find that single one." />
-      <item value="Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?" />
-      <item value="Given a non-empty array of integers, every element appears twice except for one. Find that single one." />
-      <item value="Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct." />
-      <item value="profit" />
-      <item value="Say you have an array for which the ith element is the price of a given stock on day i." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="216" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

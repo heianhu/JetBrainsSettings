@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do not return anything, modify matrix in-place instead." />
+      <item value="You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation." />
+      <item value="clockwise" />
+      <item value="repetition" />
+      <item value="rank" />
+      <item value="列" />
+      <item value="行列" />
       <item value="Only the filled cells need to be validated according to the mentioned rules." />
       <item value="A Sudoku board (partially filled) could be valid but is not necessarily solvable." />
       <item value="Same as Example 1, except with the 5 in the top left corner being modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid." />
@@ -44,18 +51,11 @@
       <item value="draw face landmarks" />
       <item value="draw face box" />
       <item value="rectangle" />
-      <item value="extract pytorch image from filelike" />
-      <item value="capture" />
-      <item value="rotate" />
-      <item value="morph" />
-      <item value="morph module parameters" />
-      <item value="rotate module parameters" />
-      <item value="morph module spec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="179" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

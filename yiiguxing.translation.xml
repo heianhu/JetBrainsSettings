@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="e: Each term of the sequence of integers will be represented as a string." />
+      <item value="generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit." />
+      <item value="1 is read off as &quot;one 1&quot; or 11." />
+      <item value="The count-and-say sequence is the sequence of integers with the first five terms as following:" />
       <item value="For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf()." />
       <item value="What should we return when needle is an empty string? This is a great question to ask during an interview." />
       <item value="Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack." />
@@ -47,15 +51,11 @@
       <item value="A Sudoku board (partially filled) could be valid but is not necessarily solvable." />
       <item value="Same as Example 1, except with the 5 in the top left corner being modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid." />
       <item value="Each column must contain the digits 1-9 without repetition." />
-      <item value="Each row must contain the digits 1-9 without repetition." />
-      <item value="Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:" />
-      <item value="You may assume that each input would have exactly one solution, and you may not use the same element twice." />
-      <item value="Given an array of integers, return indices of the two numbers such that they add up to a specific target." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="223" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

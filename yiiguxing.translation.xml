@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="What if the inputs contain unicode characters? How would you adapt your solution to such case?" />
+      <item value="You may assume the string contains only lowercase alphabets." />
+      <item value="Given two strings s and t , write a function to determine if t is an anagram of s." />
+      <item value="anagram" />
+      <item value="determine" />
+      <item value="Note: You may assume the string contain only lowercase letters." />
+      <item value="Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1." />
       <item value="For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows." />
       <item value="Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231, 231 − 1]." />
       <item value="Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231, 231 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows." />
@@ -44,18 +51,11 @@
       <item value="Top Interview Questions" />
       <item value="subscriptable" />
       <item value="'type' object is not subscriptable" />
-      <item value="hint" />
-      <item value="It doesn't matter what values are set beyond the returned length." />
-      <item value="Your function should return length = 5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively." />
-      <item value="It doesn't matter what you leave beyond the returned length." />
-      <item value="Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively." />
-      <item value="with the first two elements of nums being 1 and 2 respectively." />
-      <item value="Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="195" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

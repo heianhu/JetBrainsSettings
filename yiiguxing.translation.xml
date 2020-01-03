@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases." />
+      <item value="Note: For the purpose of this problem, we define empty string as valid palindrome." />
       <item value="What if the inputs contain unicode characters? How would you adapt your solution to such case?" />
       <item value="You may assume the string contains only lowercase alphabets." />
       <item value="Given two strings s and t , write a function to determine if t is an anagram of s." />
@@ -49,13 +51,11 @@
       <item value="profit" />
       <item value="Say you have an array for which the ith element is the price of a given stock on day i." />
       <item value="Top Interview Questions" />
-      <item value="subscriptable" />
-      <item value="'type' object is not subscriptable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="199" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

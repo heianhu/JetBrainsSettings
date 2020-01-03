@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You may assume the integer does not contain any leading zero, except the number 0 itself." />
+      <item value="The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit." />
+      <item value="Given a non-empty array of digits representing a non-negative integer, plus one to the integer." />
       <item value="What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?" />
       <item value="What if nums1's size is small compared to nums2's size? Which algorithm is better?" />
       <item value="What if the given array is already sorted? How would you optimize your algorithm?" />
@@ -48,14 +51,11 @@
       <item value="Poser" />
       <item value="Pose Parameter" />
       <item value="Morph Rotate Combine Poser 256 Param 6" />
-      <item value="tha" />
-      <item value="puppet" />
-      <item value="poser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="157" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

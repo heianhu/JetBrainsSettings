@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="All given inputs are in lowercase letters a-z." />
+      <item value="prefix" />
+      <item value="common" />
+      <item value="amongst" />
       <item value="Write a function to find the longest common prefix string amongst an array of strings." />
+      <item value="All given inputs are in lowercase letters a-z." />
       <item value="Explanation: For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means frequency = 1 and value = 2, the same way &quot;1&quot; is read as &quot;11&quot;, so the answer is the concatenation of &quot;12&quot; and &quot;11&quot; which is &quot;1211&quot;." />
       <item value="Explanation: For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means fre" />
       <item value="Note: Each term of the sequence of integers will be represented as a string." />
@@ -48,14 +51,11 @@
       <item value="Write a function that reverses a string. The input string is given as an array of characters char[]." />
       <item value="Do not return anything, modify matrix in-place instead." />
       <item value="You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation." />
-      <item value="clockwise" />
-      <item value="repetition" />
-      <item value="rank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="234" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

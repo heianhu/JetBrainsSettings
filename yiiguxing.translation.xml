@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimize the total number of operations." />
+      <item value="You must do this in-place without making a copy of the array." />
+      <item value="Do not return anything, modify nums in-place instead." />
       <item value="You may assume the integer does not contain any leading zero, except the number 0 itself." />
       <item value="The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit." />
       <item value="Given a non-empty array of digits representing a non-negative integer, plus one to the integer." />
@@ -48,14 +51,11 @@
       <item value="Batch Input" />
       <item value="Morph Rotate Combine" />
       <item value="Morph Rotate Combine Poser" />
-      <item value="Poser" />
-      <item value="Pose Parameter" />
-      <item value="Morph Rotate Combine Poser 256 Param 6" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="160" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

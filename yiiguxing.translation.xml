@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf()." />
+      <item value="What should we return when needle is an empty string? This is a great question to ask during an interview." />
+      <item value="Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack." />
       <item value="Return True if all characters in S are digits" />
       <item value="Return True if there are only decimal characters in S," />
       <item value="Return True if all characters in S are alphanumeric" />
@@ -48,14 +51,11 @@
       <item value="Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:" />
       <item value="You may assume that each input would have exactly one solution, and you may not use the same element twice." />
       <item value="Given an array of integers, return indices of the two numbers such that they add up to a specific target." />
-      <item value="You must do this in-place without making a copy of the array. Minimize the total number of operations." />
-      <item value="Minimize the total number of operations." />
-      <item value="You must do this in-place without making a copy of the array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="219" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

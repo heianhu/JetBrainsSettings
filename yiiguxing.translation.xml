@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Got a packet bigger than 'max_allowed_packet' bytes&quot;" />
       <item value="prefix" />
       <item value="common" />
       <item value="amongst" />
@@ -50,12 +51,11 @@
       <item value="Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory." />
       <item value="Write a function that reverses a string. The input string is given as an array of characters char[]." />
       <item value="Do not return anything, modify matrix in-place instead." />
-      <item value="You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="235" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Write a function to delete a node (except the tail) in a singly linked list, given only access to that node." />
       <item value="Got a packet bigger than 'max_allowed_packet' bytes&quot;" />
       <item value="prefix" />
       <item value="common" />
@@ -50,12 +51,11 @@
       <item value="You may assume all the characters consist of printable ascii characters." />
       <item value="Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory." />
       <item value="Write a function that reverses a string. The input string is given as an array of characters char[]." />
-      <item value="Do not return anything, modify matrix in-place instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="236" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Solution" />
       <item value="Write a function to delete a node (except the tail) in a singly linked list, given only access to that node." />
       <item value="The linked list will have at least two elements. All of the nodes' values will be unique. The given node will not be the tail and it will always be a valid node of the linked list. Do not return anything from your function." />
       <item value="You are given the second node with value 5, the linked list should become 4 -&gt; 1 -&gt; 9 after calling your function." />
@@ -50,12 +51,11 @@
       <item value="For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows." />
       <item value="Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231, 231 − 1]." />
       <item value="Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231, 231 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows." />
-      <item value="Example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="241" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

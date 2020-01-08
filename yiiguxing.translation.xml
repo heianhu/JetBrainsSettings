@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="string inserted between values, default a space." />
       <item value="Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists." />
+      <item value="string inserted between values, default a space." />
       <item value="A linked list can be reversed either iteratively or recursively" />
       <item value="A linked list can be reversed either iteratively or recursively. Could you implement both?" />
       <item value="Given n will always be valid." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="254" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

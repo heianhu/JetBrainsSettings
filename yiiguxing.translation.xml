@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can you solve it using O(1) (i.e. constant) memory?" />
+      <item value="There is a cycle in the linked list, where tail connects to the second node." />
+      <item value="we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to" />
+      <item value="To represent a cycle in the given linked list" />
+      <item value="To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list." />
+      <item value="Given a linked list, determine if it has a cycle in it." />
       <item value="Given a singly linked list, determine if it is a palindrome." />
       <item value="Could you do it in O(n) time and O(1) space?" />
       <item value="Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists." />
@@ -45,17 +51,11 @@
       <item value="Only the space character ' ' is considered as whitespace character." />
       <item value="If no valid conversion could be performed, a zero value is returned." />
       <item value="If the first sequence of non-whitespace characters in str is not a valid integral number, or if no such sequence exists because either str is empty or it contains only whitespace characters, no conversion is performed." />
-      <item value="The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function." />
-      <item value="The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value." />
-      <item value="Implement atoi which converts a string to an integer." />
-      <item value="For the purpose of this problem, we define empty string as valid palindrome." />
-      <item value="Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases." />
-      <item value="Note: For the purpose of this problem, we define empty string as valid palindrome." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="263" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

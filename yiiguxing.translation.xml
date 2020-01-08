@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Given a singly linked list, determine if it is a palindrome." />
+      <item value="Could you do it in O(n) time and O(1) space?" />
       <item value="Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists." />
       <item value="string inserted between values, default a space." />
       <item value="A linked list can be reversed either iteratively or recursively" />
@@ -49,13 +51,11 @@
       <item value="For the purpose of this problem, we define empty string as valid palindrome." />
       <item value="Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases." />
       <item value="Note: For the purpose of this problem, we define empty string as valid palindrome." />
-      <item value="What if the inputs contain unicode characters? How would you adapt your solution to such case?" />
-      <item value="You may assume the string contains only lowercase alphabets." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="257" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

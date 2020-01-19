@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maximum recursion depth exceeded" />
       <item value="a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1" />
       <item value="For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1." />
       <item value="Given an array where elements are sorted in ascending order, convert it to a height balanced BST." />
@@ -50,12 +51,11 @@
       <item value="Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack." />
       <item value="Return True if all characters in S are digits" />
       <item value="Return True if there are only decimal characters in S," />
-      <item value="Return True if all characters in S are alphanumeric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="274" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

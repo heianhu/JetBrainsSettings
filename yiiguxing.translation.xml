@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1" />
+      <item value="For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1." />
+      <item value="Given an array where elements are sorted in ascending order, convert it to a height balanced BST." />
       <item value="Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level)." />
       <item value="Session" />
       <item value="Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center)." />
@@ -48,14 +51,11 @@
       <item value="Return True if all characters in S are digits" />
       <item value="Return True if there are only decimal characters in S," />
       <item value="Return True if all characters in S are alphanumeric" />
-      <item value="digit or a +/- sign. Therefore no valid conversion could be performed." />
-      <item value="The first non-whitespace character is 'w', which is not a numerical" />
-      <item value="Conversion stops at digit '3' as the next character is not a numerical digit." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="273" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

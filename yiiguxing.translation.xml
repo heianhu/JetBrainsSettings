@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?" />
+      <item value="You are climbing a stair case. It takes n steps to reach to the top." />
       <item value="interval" />
       <item value="Encode a position given in float arguments latitude, longitude to a geohash which will have the character count precision." />
       <item value="You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API." />
@@ -49,13 +51,11 @@
       <item value="All given inputs are in lowercase letters a-z." />
       <item value="Explanation: For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means frequency = 1 and value = 2, the same way &quot;1&quot; is read as &quot;11&quot;, so the answer is the concatenation of &quot;12&quot; and &quot;11&quot; which is &quot;1211&quot;." />
       <item value="Explanation: For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means fre" />
-      <item value="Note: Each term of the sequence of integers will be represented as a string." />
-      <item value="Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="286" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

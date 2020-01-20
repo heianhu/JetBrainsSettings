@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="Encode a position given in float arguments latitude, longitude to a geohash which will have the character count precision." />
       <item value="You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API." />
       <item value="Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad." />
       <item value="You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad." />
@@ -49,13 +51,11 @@
       <item value="Explanation: For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means fre" />
       <item value="Note: Each term of the sequence of integers will be represented as a string." />
       <item value="Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit." />
-      <item value="The count-and-say sequence is the sequence of integers with the first five terms as following:" />
-      <item value="e: Each term of the sequence of integers will be represented as a string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="284" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

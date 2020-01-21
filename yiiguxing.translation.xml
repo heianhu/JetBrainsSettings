@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could you do it without using any loop / recursion?" />
+      <item value="Given an integer, write a function to determine if it is a power of three." />
       <item value="Count the number of prime numbers less than a non-negative number, n." />
       <item value="prime numbers" />
       <item value="prime" />
@@ -49,13 +51,11 @@
       <item value="Session" />
       <item value="Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center)." />
       <item value="The left subtree of a node contains only nodes with keys less than the node's key. The right subtree of a node contains only nodes with keys greater than the node's key. Both the left and right subtrees must also be binary search trees." />
-      <item value="Given a binary tree, determine if it is a valid binary search tree (BST)." />
-      <item value="left" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="ENGLISH" value="324" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

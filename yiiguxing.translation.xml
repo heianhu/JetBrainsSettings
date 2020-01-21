@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I can be placed before V (5) and X (10) to make 4 and 9." />
+      <item value="The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:" />
+      <item value="Because the one is before the five we subtract it making four." />
+      <item value="Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII." />
+      <item value="Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M." />
       <item value="Could you do it without using any loop / recursion?" />
       <item value="Given an integer, write a function to determine if it is a power of three." />
       <item value="Count the number of prime numbers less than a non-negative number, n." />
@@ -46,16 +51,11 @@
       <item value="maximum recursion depth exceeded" />
       <item value="a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1" />
       <item value="For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1." />
-      <item value="Given an array where elements are sorted in ascending order, convert it to a height balanced BST." />
-      <item value="Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level)." />
-      <item value="Session" />
-      <item value="Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center)." />
-      <item value="The left subtree of a node contains only nodes with keys less than the node's key. The right subtree of a node contains only nodes with keys greater than the node's key. Both the left and right subtrees must also be binary search trees." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

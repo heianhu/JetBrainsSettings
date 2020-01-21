@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle." />
+      <item value="Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum." />
       <item value="If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit." />
       <item value="Design an algorithm to find the maximum profit. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times)." />
       <item value="as selling price needs to be larger than buying price." />
@@ -49,13 +51,11 @@
       <item value="The linked list will have at least two elements. All of the nodes' values will be unique. The given node will not be the tail and it will always be a valid node of the linked list. Do not return anything from your function." />
       <item value="You are given the second node with value 5, the linked list should become 4 -&gt; 1 -&gt; 9 after calling your function." />
       <item value="Given linked list -- head = [4,5,1,9], which looks like following:" />
-      <item value="Got a packet bigger than 'max_allowed_packet' bytes&quot;" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="ENGLISH" value="296" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

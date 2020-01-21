@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”." />
+      <item value="Write a program that outputs the string representation of numbers from 1 to n." />
       <item value="Design a stack that supports push, pop, top, and retrieving the minimum element in constant time." />
       <item value="initialize your data structure here." />
       <item value="Retrieve the minimum element in the stack." />
@@ -49,13 +51,11 @@
       <item value="Can you solve it using O(1) (i.e. constant) memory?" />
       <item value="There is a cycle in the linked list, where tail connects to the second node." />
       <item value="we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to" />
-      <item value="To represent a cycle in the given linked list" />
-      <item value="To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="ENGLISH" value="317" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

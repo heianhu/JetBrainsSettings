@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Design a stack that supports push, pop, top, and retrieving the minimum element in constant time." />
+      <item value="initialize your data structure here." />
+      <item value="Retrieve the minimum element in the stack." />
+      <item value="Removes the element on top of the stack." />
+      <item value="and retrieving the minimum element in constant time." />
       <item value="Shuffle the array [1,2,3] and return its result. Any permutation of [1,2,3] must equally likely to be returned." />
       <item value="Your Solution object will be instantiated and called as such:" />
       <item value="Resets the array back to its original configuration [1,2,3]." />
@@ -46,16 +51,11 @@
       <item value="we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to" />
       <item value="To represent a cycle in the given linked list" />
       <item value="To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list." />
-      <item value="Given a linked list, determine if it has a cycle in it." />
-      <item value="Given a singly linked list, determine if it is a palindrome." />
-      <item value="Could you do it in O(n) time and O(1) space?" />
-      <item value="Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists." />
-      <item value="string inserted between values, default a space." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="ENGLISH" value="315" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

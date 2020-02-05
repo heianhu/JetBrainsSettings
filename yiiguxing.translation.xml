@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
       <item value="I can be placed before V (5) and X (10) to make 4 and 9." />
       <item value="The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:" />
       <item value="Because the one is before the five we subtract it making four." />
@@ -50,12 +51,11 @@
       <item value="The number of elements initialized in nums1 and nums2 are m and n respectively." />
       <item value="maximum recursion depth exceeded" />
       <item value="a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1" />
-      <item value="For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="330" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

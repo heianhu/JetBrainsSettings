@@ -16,6 +16,11 @@
           <option name="port" value="32200" />
         </fileTransfer>
       </webServer>
+      <webServer id="c796fa58-ded6-42aa-a905-678100bda91a" name="hduser@10.240.160.62:32200" url="http:///">
+        <fileTransfer host="10.240.160.62" port="32200" accessType="SFTP" authAgent="true">
+          <option name="port" value="32200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

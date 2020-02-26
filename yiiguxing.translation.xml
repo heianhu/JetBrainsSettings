@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权重" />
+      <item value="weight" />
       <item value="dim" />
       <item value="Sentiment" />
       <item value="You are not allowed to push code to protected branches on this project." />
@@ -49,13 +51,11 @@
       <item value="interval" />
       <item value="Encode a position given in float arguments latitude, longitude to a geohash which will have the character count precision." />
       <item value="You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API." />
-      <item value="Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad." />
-      <item value="You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="338" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

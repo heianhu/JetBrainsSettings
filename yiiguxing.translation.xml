@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subject" />
       <item value="权重" />
       <item value="weight" />
       <item value="dim" />
@@ -50,12 +51,11 @@
       <item value="You are climbing a stair case. It takes n steps to reach to the top." />
       <item value="interval" />
       <item value="Encode a position given in float arguments latitude, longitude to a geohash which will have the character count precision." />
-      <item value="You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="339" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

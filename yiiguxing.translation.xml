@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
+      <item value="预警" />
       <item value="subject" />
       <item value="权重" />
       <item value="weight" />
@@ -49,13 +51,11 @@
       <item value="Given n will be a positive integer." />
       <item value="Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?" />
       <item value="You are climbing a stair case. It takes n steps to reach to the top." />
-      <item value="interval" />
-      <item value="Encode a position given in float arguments latitude, longitude to a geohash which will have the character count precision." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="341" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

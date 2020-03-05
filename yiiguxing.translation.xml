@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="topic" />
       <item value="Expected axis has 8 elements, new values have 6 elements" />
       <item value="Invalid" />
       <item value="origin" />
@@ -50,12 +51,11 @@
       <item value="Design an algorithm to find the maximum profit. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times)." />
       <item value="as selling price needs to be larger than buying price." />
       <item value="Note that you cannot sell a stock before you buy one." />
-      <item value="Say you have an array for which the ith element is the price of a given stock on day i." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="345" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

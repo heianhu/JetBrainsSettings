@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="condition" />
+      <item value="provide context" />
+      <item value="provide" />
+      <item value="execution" />
       <item value="need more than 2 values to unpack" />
       <item value="concurrency" />
       <item value="retry delay" />
@@ -47,15 +51,11 @@
       <item value="Returns the random shuffling of array [1,2,3]." />
       <item value="Any permutation of [1,2,3] must equally likely to be returned." />
       <item value="Shuffle" />
-      <item value="Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police." />
-      <item value="robbing" />
-      <item value="You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night." />
-      <item value="If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="354" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pseudo" />
       <item value="secondary" />
       <item value="Cannot set priority of secondarynamenode process 5100" />
       <item value="byreason" />
@@ -50,12 +51,11 @@
       <item value="and retrieving the minimum element in constant time." />
       <item value="Shuffle the array [1,2,3] and return its result. Any permutation of [1,2,3] must equally likely to be returned." />
       <item value="Your Solution object will be instantiated and called as such:" />
-      <item value="Resets the array back to its original configuration [1,2,3]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="359" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

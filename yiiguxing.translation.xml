@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="state" />
+      <item value="状态" />
+      <item value="stutas" />
       <item value="IDENTIFIED" />
       <item value="mock" />
       <item value="pseudo" />
@@ -33,7 +36,6 @@
       <item value="official" />
       <item value="template" />
       <item value="recent" />
-      <item value="状态" />
       <item value="I can be placed before V (5) and X (10) to make 4 and 9." />
       <item value="The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:" />
       <item value="Because the one is before the five we subtract it making four." />
@@ -49,16 +51,15 @@
       <item value="Design a stack that supports push, pop, top, and retrieving the minimum element in constant time." />
       <item value="initialize your data structure here." />
       <item value="Retrieve the minimum element in the stack." />
-      <item value="Removes the element on top of the stack." />
-      <item value="and retrieving the minimum element in constant time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="363" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>

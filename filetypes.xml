@@ -8,10 +8,10 @@
       <mapping pattern="32325_login_time" type="PLAIN_TEXT" />
       <mapping pattern="用于存放选择下载的zip文件" type="PLAIN_TEXT" />
       <mapping pattern="qiandaolv" type="PLAIN_TEXT" />
+      <mapping pattern="rootcron" type="PLAIN_TEXT" />
       <mapping pattern="shouchongwuqipianhao" type="PLAIN_TEXT" />
       <mapping pattern="count_roleid" type="PLAIN_TEXT" />
       <mapping pattern="wanfuloujianglilingqushijianfenbu" type="PLAIN_TEXT" />
-      <mapping pattern="rootcron" type="PLAIN_TEXT" />
       <mapping pattern="82296.sql" type="PLAIN_TEXT" />
       <mapping pattern="dyeing_use_rate" type="PLAIN_TEXT" />
       <mapping pattern="32325_pay" type="PLAIN_TEXT" />
@@ -27,15 +27,15 @@
       <mapping pattern="_trial_marker" type="PLAIN_TEXT" />
       <mapping pattern="shichangfenbu.sql" type="PLAIN_TEXT" />
       <mapping pattern="用于放全部下载的zip文件" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="edgelist" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="ipdb" type="PLAIN_TEXT" />
+      <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="gml" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="luofeng_finish" type="SQL" />
       <mapping pattern="detail_mysql" type="SQL" />
       <mapping pattern="junmavalue" type="SQL" />

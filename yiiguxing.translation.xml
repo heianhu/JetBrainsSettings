@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spacer" />
       <item value="Daemon" />
       <item value="god is in the details" />
       <item value="Cannot resolve org.apache.directory.api:api-asn1-api:1.0.0-M20" />
@@ -50,12 +51,11 @@
       <item value="Count the number of prime numbers less than a non-negative number, n." />
       <item value="prime numbers" />
       <item value="prime" />
-      <item value="But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="369" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />
@@ -76,7 +76,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="21f11c9eab80f4f2" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>

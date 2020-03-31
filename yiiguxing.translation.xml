@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not enough arguments for format string" />
       <item value="性别" />
       <item value="解析" />
       <item value="spacer" />
@@ -50,12 +51,11 @@
       <item value="Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M." />
       <item value="Could you do it without using any loop / recursion?" />
       <item value="Given an integer, write a function to determine if it is a power of three." />
-      <item value="Count the number of prime numbers less than a non-negative number, n." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="372" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

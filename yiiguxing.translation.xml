@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性别" />
       <item value="解析" />
       <item value="spacer" />
       <item value="Daemon" />
@@ -50,12 +51,11 @@
       <item value="Could you do it without using any loop / recursion?" />
       <item value="Given an integer, write a function to determine if it is a power of three." />
       <item value="Count the number of prime numbers less than a non-negative number, n." />
-      <item value="prime numbers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="371" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="JAPANESE" value="1" />

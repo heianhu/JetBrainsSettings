@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MACRO" />
+      <item value="TEMPORARY" />
       <item value="vill" />
       <item value="not enough arguments for format string" />
       <item value="性别" />
@@ -49,13 +51,11 @@
       <item value="The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:" />
       <item value="Because the one is before the five we subtract it making four." />
       <item value="Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII." />
-      <item value="Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M." />
-      <item value="Could you do it without using any loop / recursion?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="374" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />

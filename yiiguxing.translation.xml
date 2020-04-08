@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destination" />
       <item value="捐赠" />
       <item value="The specified bucket does not exist" />
       <item value="section" />
@@ -50,12 +51,11 @@
       <item value="Sentiment" />
       <item value="You are not allowed to push code to protected branches on this project." />
       <item value="official" />
-      <item value="template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="381" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />

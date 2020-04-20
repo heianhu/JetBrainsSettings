@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="举报" />
+      <item value="report" />
       <item value="fetch" />
       <item value="single positional indexer is out-of-bounds" />
       <item value="A value is trying to be set on a copy of a slice from a DataFrame" />
@@ -49,13 +51,11 @@
       <item value="comment" />
       <item value="tuple index out of range" />
       <item value="topic" />
-      <item value="Expected axis has 8 elements, new values have 6 elements" />
-      <item value="Invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="397" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />

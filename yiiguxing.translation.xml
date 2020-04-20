@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetch" />
+      <item value="single positional indexer is out-of-bounds" />
+      <item value="A value is trying to be set on a copy of a slice from a DataFrame" />
+      <item value="invalid type comparison" />
+      <item value="columns" />
+      <item value="No axis named unix_ts for object type" />
+      <item value="促销" />
+      <item value="Illegal" />
       <item value="modify" />
       <item value="preauthentication" />
       <item value="destination" />
@@ -43,19 +51,11 @@
       <item value="topic" />
       <item value="Expected axis has 8 elements, new values have 6 elements" />
       <item value="Invalid" />
-      <item value="origin" />
-      <item value="common" />
-      <item value="预警" />
-      <item value="subject" />
-      <item value="权重" />
-      <item value="weight" />
-      <item value="dim" />
-      <item value="Sentiment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="392" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />

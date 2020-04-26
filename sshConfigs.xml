@@ -5,7 +5,7 @@
       <sshConfig host="leihuo-hadoop-30" id="fb68f8a7-734e-4761-956e-904f6faf7c61" keyPath="C:\Users\masheng\.ssh\id_rsa" port="32200" customName="masheng@leihuo-hadoop-30:32200" nameFormat="CUSTOM" username="masheng" />
       <sshConfig authType="OPEN_SSH" host="leihuo-hadoop-30" id="cd3e0b92-46a2-48a0-9c29-a03c174925a2" port="32200" customName="masheng@leihuo-hadoop-30:32200 (1)" nameFormat="CUSTOM" username="masheng" />
       <sshConfig authType="OPEN_SSH" host="10.240.160.62" id="945cb7b0-1c7e-4ad4-8192-d532a3ee7aa1" port="32200" customName="hduser@10.240.160.62:32200 (1)" nameFormat="CUSTOM" username="hduser" />
-      <sshConfig authType="OPEN_SSH" host="10.240.160.62" id="f80dfd08-ee01-4de0-9591-719d1eee9c08" port="32200" customName="hduser@10.240.160.62:32200 (1)" nameFormat="CUSTOM" username="hduser" />
+      <sshConfig authType="OPEN_SSH" host="10.240.160.62" id="04ee43fd-8cb2-4854-8b54-5192ab207ad6" port="32200" customName="hduser@10.240.160.62:32200 (1)" nameFormat="CUSTOM" username="hduser" />
     </configs>
   </component>
 </application>

@@ -2,24 +2,19 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="05c84a00-0544-4e63-85c2-888cc1db5063" name="hduser@10.240.160.62:32200" url="http:///">
-        <fileTransfer host="10.240.160.62" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <option name="port" value="32200" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="52b21b97-c795-496d-ab78-80d811863895" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
       </webServer>
       <webServer id="585ee0b0-f3e2-4e4f-a203-3fd2cd1c0213" name="masheng@leihuo-hadoop-30:32200" url="http:///">
-        <fileTransfer host="leihuo-hadoop-30" port="32200" privateKey="C:\Users\masheng\.ssh\id_rsa" rootFolder="/home/masheng/" accessType="SFTP" keyPair="true">
-          <option name="port" value="32200" />
-        </fileTransfer>
+        <fileTransfer rootFolder="/home/masheng/" accessType="SFTP" host="leihuo-hadoop-30" port="32200" sshConfigId="675211a7-b8ce-485b-bbca-fa5857bc4d64" sshConfig="masheng@leihuo-hadoop-30:32200" keyPair="true" />
       </webServer>
       <webServer id="31ac3b84-5f02-4ede-a114-2a6537e08f1e" name="masheng@leihuo-hadoop-30:32200 (1)" url="http:///">
-        <fileTransfer host="leihuo-hadoop-30" port="32200" accessType="SFTP" authAgent="true">
-          <option name="port" value="32200" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="leihuo-hadoop-30" port="32200" sshConfigId="4f3cbb78-6239-46bd-b8b6-7cceabf3bd66" sshConfig="masheng@leihuo-hadoop-30:32200 (1)" authAgent="true" />
       </webServer>
       <webServer id="c796fa58-ded6-42aa-a905-678100bda91a" name="hduser@10.240.160.62:32200 (1)" url="http:///">
-        <fileTransfer host="10.240.160.62" port="32200" accessType="SFTP" authAgent="true">
-          <option name="port" value="32200" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="71b30447-5f49-45e2-97f8-7ebcbb8efce0" sshConfig="hduser@10.240.160.62:32200 (1)" authAgent="true" />
+      </webServer>
+      <webServer id="edaa77dd-1552-4e0a-b93e-66d64b08e4aa" name="hduser@10.240.160.62:32200">
+        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="52b21b97-c795-496d-ab78-80d811863895" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
       </webServer>
     </option>
   </component>

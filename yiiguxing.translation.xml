@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="median" />
       <item value="gevent" />
       <item value="Lock wait timeout exceeded; try restarting transaction" />
       <item value="Serializable" />
@@ -50,12 +51,11 @@
       <item value="byreason" />
       <item value="invalid literal" />
       <item value="progress hourly" />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="407" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />

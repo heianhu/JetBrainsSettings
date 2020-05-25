@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通用" />
       <item value="备注" />
       <item value="median" />
       <item value="gevent" />
@@ -50,12 +51,11 @@
       <item value="secondary" />
       <item value="Cannot set priority of secondarynamenode process 5100" />
       <item value="byreason" />
-      <item value="invalid literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="409" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />

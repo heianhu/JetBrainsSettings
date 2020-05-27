@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="05c84a00-0544-4e63-85c2-888cc1db5063" name="hduser@10.240.160.62:32200" url="http:///">
-        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="6848f5ce-7849-4f8e-8f76-e4a3e215739a" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
+        <fileTransfer accessType="SFTP" host="10.240.160.64" port="32200" sshConfigId="6848f5ce-7849-4f8e-8f76-e4a3e215739a" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
       </webServer>
       <webServer id="585ee0b0-f3e2-4e4f-a203-3fd2cd1c0213" name="masheng@leihuo-hadoop-30:32200" url="http:///">
         <fileTransfer rootFolder="/home/masheng/" accessType="SFTP" host="leihuo-hadoop-30" port="32200" sshConfigId="fb68f8a7-734e-4761-956e-904f6faf7c61" sshConfig="masheng@leihuo-hadoop-30:32200" keyPair="true" />
@@ -10,14 +10,17 @@
       <webServer id="31ac3b84-5f02-4ede-a114-2a6537e08f1e" name="masheng@leihuo-hadoop-30:32200 (1)" url="http:///">
         <fileTransfer accessType="SFTP" host="leihuo-hadoop-30" port="32200" sshConfigId="cd3e0b92-46a2-48a0-9c29-a03c174925a2" sshConfig="masheng@leihuo-hadoop-30:32200 (1)" authAgent="true" />
       </webServer>
-      <webServer id="c796fa58-ded6-42aa-a905-678100bda91a" name="hduser@10.240.160.62:32200 (1)" url="http:///">
-        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="71b30447-5f49-45e2-97f8-7ebcbb8efce0" sshConfig="hduser@10.240.160.62:32200 (1)" authAgent="true" />
+      <webServer id="c796fa58-ded6-42aa-a905-678100bda91a" name="hduser@10.240.160.64:32200" url="http:///">
+        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="945cb7b0-1c7e-4ad4-8192-d532a3ee7aa1" sshConfig="hduser@10.240.160.64:32200" keyPair="true" />
       </webServer>
       <webServer id="edaa77dd-1552-4e0a-b93e-66d64b08e4aa" name="hduser@10.240.160.62:32200 (2)">
-        <fileTransfer accessType="SFTP" host="10.240.160.62" port="32200" sshConfigId="6848f5ce-7849-4f8e-8f76-e4a3e215739a" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
+        <fileTransfer accessType="SFTP" host="10.240.160.64" port="32200" sshConfigId="6848f5ce-7849-4f8e-8f76-e4a3e215739a" sshConfig="hduser@10.240.160.62:32200" keyPair="true" />
       </webServer>
       <webServer id="91bd99f9-2dad-4a36-9f27-a80c22b6d1df" name="masheng@leihuo-hadoop-30:32200 (2)" url="http:///">
         <fileTransfer accessType="SFTP" host="leihuo-hadoop-30" port="32200" sshConfigId="3a085d92-bc06-4525-9d80-09c1baf400a2" sshConfig="masheng@leihuo-hadoop-30:32200 agent" authAgent="true" />
+      </webServer>
+      <webServer id="3628724c-d621-4cd4-89f2-84d4487799f9" name="hduser@10.240.160.64:32200 (1)" url="http:///">
+        <fileTransfer accessType="SFTP" host="10.240.160.64" port="32200" sshConfigId="37341acc-e3ba-4687-87ba-fd4216c4a918" sshConfig="hduser@10.240.160.64:32200 agent" authAgent="true" />
       </webServer>
     </option>
   </component>

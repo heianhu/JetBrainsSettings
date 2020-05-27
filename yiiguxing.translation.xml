@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="space" />
+      <item value="Expected axis has 11 elements, new values have 10 elements" />
       <item value="field" />
       <item value="通用" />
       <item value="备注" />
@@ -49,13 +51,11 @@
       <item value="mock" />
       <item value="pseudo" />
       <item value="secondary" />
-      <item value="Cannot set priority of secondarynamenode process 5100" />
-      <item value="byreason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="412" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />

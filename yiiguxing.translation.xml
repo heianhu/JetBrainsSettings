@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="别名" />
       <item value="space" />
       <item value="Expected axis has 11 elements, new values have 10 elements" />
       <item value="field" />
@@ -50,12 +51,11 @@
       <item value="IDENTIFIED" />
       <item value="mock" />
       <item value="pseudo" />
-      <item value="secondary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="413" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />

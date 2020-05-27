@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetch" />
+      <item value="extract" />
       <item value="catch" />
       <item value="miscellaneous" />
       <item value="别名" />
@@ -19,7 +21,6 @@
       <item value="detach" />
       <item value="举报" />
       <item value="report" />
-      <item value="fetch" />
       <item value="single positional indexer is out-of-bounds" />
       <item value="A value is trying to be set on a copy of a slice from a DataFrame" />
       <item value="invalid type comparison" />
@@ -50,12 +51,11 @@
       <item value="状态" />
       <item value="stutas" />
       <item value="IDENTIFIED" />
-      <item value="mock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="417" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
         <entry key="DUTCH" value="1" />
